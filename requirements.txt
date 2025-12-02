@@ -1,0 +1,20 @@
+# Python para la Ciencia, Tecnología e Ingeniería
+# Dependencias del proyecto
+
+# Computación numérica
+numpy>=1.24.0
+
+# Análisis de datos
+pandas>=2.0.0
+
+# Visualización de datos
+matplotlib>=3.7.0
+
+# Entorno Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+ipython>=8.12.0
+
+# Utilidades adicionales (opcional)
+scipy>=1.10.0
+seaborn>=0.12.0
